@@ -83,5 +83,5 @@ chmod +x crop_and_merge.sh
 
 ## 📖 License
 
-MIT License © 2025 [Saheer MK](https://github.com/saheermk)
+MIT License © 2025 [Saheermk](https://github.com/saheermk)
 
